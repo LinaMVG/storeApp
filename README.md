@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
 
+El despliegue se puede encontrar en: https://store-g1ivho8p5-lina-velasquezs-projects.vercel.app
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
